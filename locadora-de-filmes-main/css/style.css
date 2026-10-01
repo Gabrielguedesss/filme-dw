@@ -1,0 +1,16 @@
+body {
+    background-color: #0F0F0F;
+    color: white;
+}
+git
+.primeiraClasse {
+    color: red;
+}
+
+.primeiraClasse:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 300px;
+}
